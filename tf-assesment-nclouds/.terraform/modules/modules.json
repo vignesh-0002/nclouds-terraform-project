@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"RDS","Source":"./modules/rds-module","Dir":"modules/rds-module"},{"Key":"dev-vpc","Source":"./modules/vpc-module","Dir":"modules/vpc-module"},{"Key":"ec2","Source":"./modules/ec2-module","Dir":"modules/ec2-module"},{"Key":"vpc","Source":"./modules/vpc-module","Dir":"modules/vpc-module"}]}
