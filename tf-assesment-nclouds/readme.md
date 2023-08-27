@@ -177,7 +177,7 @@ provider "aws" {
 ![Screenshot from 2023-08-25 13-33-40](https://github.com/Vignesh2k21/Nclouds-tf-assesment/assets/87553373/55b39363-bdfb-4d49-808d-9b272e50116f)
 
 
-#### 3.4
+#### 3.4 Cleaning up!
 
 * For cleaning up the environment we can migrate the state from s3 to local For that we need to mute the following from the provider,
 
